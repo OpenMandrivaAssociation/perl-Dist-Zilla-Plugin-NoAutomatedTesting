@@ -1,2 +1,4 @@
+removed_sources:
+  Dist-Zilla-Plugin-NoAutomatedTesting-0.02.tar.gz: d55a9e3ea600bc9687908e966ec89823e5539d35
 sources:
-  "Dist-Zilla-Plugin-NoAutomatedTesting-0.02.tar.gz": d55a9e3ea600bc9687908e966ec89823e5539d35
+  Dist-Zilla-Plugin-NoAutomatedTesting-0.08.tar.gz: c38c7418319a4ba23008958f5d6a58de5e51bf5d

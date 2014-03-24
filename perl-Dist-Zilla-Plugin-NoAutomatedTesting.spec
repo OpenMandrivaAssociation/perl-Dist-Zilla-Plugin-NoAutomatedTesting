@@ -1,9 +1,9 @@
 %define upstream_name    Dist-Zilla-Plugin-NoAutomatedTesting
-%define upstream_version 0.02
+%define upstream_version 0.08
 
 Name:		perl-%{upstream_name}
 Version:	%perl_convert_version %{upstream_version}
-Release:	3
+Release:	1
 
 Summary:	Avoid running under CPAN Testers
 License:	GPL+ or Artistic
@@ -44,4 +44,5 @@ perl Makefile.PL INSTALLDIRS=vendor
 %doc META.yml LICENSE README META.json Changes
 %{_mandir}/man3/*
 %{perl_vendorlib}/*
+
 
